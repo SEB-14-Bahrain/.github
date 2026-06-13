@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEB!!! 🎉
 
-## [Class Schedule](https://seb-14-bahrain.github.io/seb-14-class-schedule/)
+## [Class Wiki](https://seb-14-bahrain.github.io/seb-14-class-schedule/)
 
 Please use the Student Portal above for all lessons, labs, projects, and resources.
 
