@@ -7,14 +7,13 @@ Please use the Student Portal above for all lessons, labs, projects, and resourc
 ## Class Structure
 
 #### Course Dates
+- Sunday - Thursday, 9 am to 5 pm
 - 14 June to 03 September
   - 17 June, **Holiday - no class**
   - 24-25 June, **Holiday - no class**
   - 24-25 June, **Holiday - no class**
   - 26 August, **Holiday - no class**
   - _Holidays are subject to change_
-- Sunday - Thursday, 9 am to 5 pm
-- Course will be divided into 4 units, with a project at the end of each unit
 
 #### Content covered:
 * HTML
@@ -30,7 +29,7 @@ We cover these technologies / topics because they are foundational to developmen
 
 #### Normal Daily schedule
 
-Most days will be a combination of lectures and lab time (where you can work with your peers and get hands on practice).  There are a few days each unit where most or all of the day is devoted a codealong - We'll build a project together as a class.  
+Most days will be a combination of lectures and lab time (where you can work with your peers and get hands on practice).  There are a few days each unit where most or all of the day is devoted a codealong where we'll build a project together as a class.  
 
 Every day we will always take a lunch break at 11:30 am until 1:00pm and a short afternoon break from 3:00pm to 3:30pm.  I will also try to give small 5 minute breaks throughout the day as time permits.
 
@@ -38,7 +37,7 @@ Every day we will always take a lunch break at 11:30 am until 1:00pm and a short
 
 Project weeks will be time for you to work on your projects.  There will be no lectures.  We will come to class as usual and get hands on work building projects from 9 to 5.  The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible.  However, the instructional team will be available to help as you code.  We will have our same normal lunch and afternoon breaks.  On the final day of project week, everyone will present their project to the class.
 
-### Course Policies
+## Course Policies
 
 #### Homework 
 * Each day you will be given a homework assignment that is due the next morning at 9 AM. 
