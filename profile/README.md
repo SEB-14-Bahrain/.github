@@ -118,13 +118,12 @@ A simple rule:
   ∙ Can you improve the wording of these setup instructions?
 </details>
 
-You may not use AI to:
+**You may not use AI to:**
 
 * Complete a lab for you
 * Generate a full project and submit it as your own
 * Write code that you do not understand
 * Hide AI use from the instructional team
-* Create fake commit history
 * Rewrite copied code to make it look different
 * Bypass project or homework requirements
 
