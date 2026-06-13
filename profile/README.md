@@ -71,7 +71,7 @@ A simple rule:
 
 > AI may help you think, but your fingers must still write the code.
 
-You may use AI to:
+**You may use AI to:**
 
 <details>
   <summary><strong>Explain a concept in simpler language</strong></summary>
@@ -87,75 +87,35 @@ You may use AI to:
 </details>
 <details>
   <summary><strong>Explain an error message</strong></summary>
-  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  ∙ I received this error: `ReferenceError: score is not defined`. What does it mean?
   <br>
-  ∙ Explain JavaScript arrays as if I have never programmed before.
+  ∙ I got `Cannot read properties of null`. What is JavaScript trying to tell me?
   <br>
-  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
-  <br>
-  ∙ What is the DOM? Please explain it without technical jargon.
-  <br>
-  ∙ Can you explain Git commits using an everyday analogy?
+  ∙ Here's my terminal output. Can you explain the error in beginner-friendly language?
 </details>
 <details>
-  <summary><strong>Help you write pseudocode</strong></summary>
-  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <summary><strong>Help you write pseudocode (planning)</strong></summary>
+  ∙ Can you help me break this problem into smaller steps without writing code?
   <br>
-  ∙ Explain JavaScript arrays as if I have never programmed before.
-  <br>
-  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
-  <br>
-  ∙ What is the DOM? Please explain it without technical jargon.
-  <br>
-  ∙ Can you explain Git commits using an everyday analogy?
+  ∙ What questions should I ask myself before writing code for this feature?
 </details>
 <details>
   <summary><strong>Suggest debugging steps</strong></summary>
-  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  ∙ My button isn't working when I click it. What debugging steps should I try?
   <br>
-  ∙ Explain JavaScript arrays as if I have never programmed before.
+  ∙ Can you suggest ways to debug why my function returns `undefined`?
   <br>
-  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  ∙ What should I check when my CSS styles aren't appearing?
   <br>
-  ∙ What is the DOM? Please explain it without technical jargon.
-  <br>
-  ∙ Can you explain Git commits using an everyday analogy?
-</details>
-<details>
-  <summary><strong>Review code you already wrote</strong></summary>
-  ∙ Can you explain HTML semantic elements in simple language for a beginner?
-  <br>
-  ∙ Explain JavaScript arrays as if I have never programmed before.
-  <br>
-  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
-  <br>
-  ∙ What is the DOM? Please explain it without technical jargon.
-  <br>
-  ∙ Can you explain Git commits using an everyday analogy?
+  ∙ My event listener isn't firing. What are some things I can investigate?
 </details>
 <details>
   <summary><strong>Improve comments or README wording</strong></summary>
-  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  ∙ Can you check my README for grammar and clarity?
   <br>
-  ∙ Explain JavaScript arrays as if I have never programmed before.
+  ∙ Help me make my project description easier for a recruiter to understand.
   <br>
-  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
-  <br>
-  ∙ What is the DOM? Please explain it without technical jargon.
-  <br>
-  ∙ Can you explain Git commits using an everyday analogy?
-</details>
-<details>
-  <summary><strong>Ask for clarification in your native language</strong></summary>
-  ∙ Can you explain HTML semantic elements in simple language for a beginner?
-  <br>
-  ∙ Explain JavaScript arrays as if I have never programmed before.
-  <br>
-  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
-  <br>
-  ∙ What is the DOM? Please explain it without technical jargon.
-  <br>
-  ∙ Can you explain Git commits using an everyday analogy?
+  ∙ Can you improve the wording of these setup instructions?
 </details>
 
 You may not use AI to:
