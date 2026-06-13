@@ -73,13 +73,90 @@ A simple rule:
 
 You may use AI to:
 
-* Explain a concept in simpler language
-* Explain an error message
-* Help you write pseudocode
-* Suggest debugging steps
-* Review code you already wrote
-* Improve comments or README wording
-* Ask for clarification in your native language
+<details>
+  <summary><strong>Explain a concept in simpler language</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
+<details>
+  <summary><strong>Explain an error message</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
+<details>
+  <summary><strong>Help you write pseudocode</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
+<details>
+  <summary><strong>Suggest debugging steps</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
+<details>
+  <summary><strong>Review code you already wrote</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
+<details>
+  <summary><strong>Improve comments or README wording</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
+<details>
+  <summary><strong>Ask for clarification in your native language</strong></summary>
+  ∙ Can you explain HTML semantic elements in simple language for a beginner?
+  <br>
+  ∙ Explain JavaScript arrays as if I have never programmed before.
+  <br>
+  ∙ I don't understand CSS Flexbox. Can you explain it using a real-world example?
+  <br>
+  ∙ What is the DOM? Please explain it without technical jargon.
+  <br>
+  ∙ Can you explain Git commits using an everyday analogy?
+</details>
 
 You may not use AI to:
 
